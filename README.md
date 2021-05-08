@@ -1,4 +1,4 @@
-# fundamentos_arquitetura
+
 ## Exercícios
 * [Exercício 1](https://github.com/JoaoSaol/fundamentos_arquitetura/tree/exercicio1)
 * [Exercício 2](https://github.com/JoaoSaol/fundamentos_arquitetura/tree/exercicio2)
