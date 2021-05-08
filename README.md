@@ -1,8 +1,8 @@
 
 ## Exercícios
-* [Exercício 1](https://github.com/JoaoSaol/fundamentos_arquitetura/master/exercicio1)
-* [Exercício 2](https://github.com/JoaoSaol/fundamentos_arquitetura/master/exercicio2)
-* [Exercício 3](https://github.com/JoaoSaol/fundamentos_arquitetura/master/exercicio3)
+* [Exercício 1](https://github.com/JoaoSaol/fundamentos_arquitetura/tree/master/exercicio1)
+* [Exercício 2](https://github.com/JoaoSaol/fundamentos_arquitetura/tree/master/exercicio2)
+* [Exercício 3](https://github.com/JoaoSaol/fundamentos_arquitetura/tree/master/exercicio3)
 
 ## Tipos de arquiteturas
 
