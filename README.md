@@ -1,23 +1,23 @@
 
 ## Exercícios
-* [Exercício 1](https://github.com/JoaoSaol/fundamentos_arquitetura/exercicio1)
-* [Exercício 2](https://github.com/JoaoSaol/fundamentos_arquitetura/exercicio2)
-* [Exercício 3](https://github.com/JoaoSaol/fundamentos_arquitetura/exercicio3)
+* [Exercício 1](https://github.com/JoaoSaol/fundamentos_arquitetura/master/exercicio1)
+* [Exercício 2](https://github.com/JoaoSaol/fundamentos_arquitetura/master/exercicio2)
+* [Exercício 3](https://github.com/JoaoSaol/fundamentos_arquitetura/master/exercicio3)
 
 ## Tipos de arquiteturas
 
 ### Monolito
 
-![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/monolito.png)
+![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/master/monolito.png)
 
 ### Microserviços #1
 
-![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/microservicos1.png)
+![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/master/microservicos1.png)
 
 ### Microserviços #2
 
-![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/microservicos2.png)
+![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/master/microservicos2.png)
 
 ### Microserviços #3
 
-![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/microservicos3.png)
+![Monolito](https://raw.githubusercontent.com/JoaoSaol/fundamentos_arquitetura/master/microservicos3.png)
